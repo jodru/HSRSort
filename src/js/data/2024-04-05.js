@@ -58,21 +58,21 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "March 7th",
-    img: "elysia.png",
+    img: "march.png",
     opts: {
       faction: ["AE"],
     }
   },
   {
     name: "Himeko",
-    img: "nightglow.png",
+    img: "himeko.png",
     opts: {
       faction: ["AE"],
     }
   },
   {
     name: "Welt Yang",
-    img: "shatteredstars.png",
+    img: "welt.png",
     opts: {
       faction: ["AE"],
     }
@@ -107,7 +107,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Asta",
-    img: "mona.png",
+    img: "asta.png",
     opts: {
       faction: ["HSS"],
     }
@@ -177,7 +177,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Bronya",
-    img: "bronyaoneechan.png",
+    img: "bronya.png",
     opts: {
       faction: ["J6"],
     }
@@ -198,7 +198,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Seele",
-    img: "veliona.png",
+    img: "seele.png",
     opts: {
       faction: ["J6"],
     }
@@ -283,14 +283,14 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jing Yuan",
-    img: "cyyu.png",
+    img: "jingyuan.png",
     opts: {
       faction: ["XL"],
     }
   },
   {
     name: "Jingliu",
-    img: "amalee.png",
+    img: "jingliu.png",
     opts: {
       faction: ["XL"],
     }
@@ -304,14 +304,14 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yanqing",
-    img: "mafeima.png",
+    img: "yanqing.png",
     opts: {
       faction: ["XL"],
     }
   },
   {
     name: "Gallagher",
-    img: "soder.png",
+    img: "gallagher.png",
     opts: {
       faction: ["PN"],
     }
@@ -346,7 +346,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Topaz",
-    img: "andNumby.png",
+    img: "topaz.png",
     opts: {
       faction: ["IPC"],
     }
@@ -367,7 +367,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Boothill",
-    img: "yeehaw.png",
+    img: "boothill.png",
     opts: {
       faction: ["CS"],
     }
@@ -381,7 +381,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dr. Ratio",
-    img: "zeropoints.png",
+    img: "ratio.png",
     opts: {
       faction: ["CS"]
     }
@@ -452,7 +452,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Svarog",
-    img: "berserker.png",
+    img: "svarog.png",
     opts: {
       faction: ["J6"],
       rNPCs: true
