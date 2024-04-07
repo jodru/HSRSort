@@ -2,7 +2,8 @@
 A simple character sorter for Honkai: Star Rail. 
 
 Features all current playable characters as well as major story NPCs. Will periodically be updated to include new playable characters/new major NPCs.
- 
+
+Use it at [this link.](https://hsrlist.jodru.com/)
 
 
 ## Credits
